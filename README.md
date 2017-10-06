@@ -1,4 +1,4 @@
-# React Grid
+# Simple React Grid
 
 Simple Grid System build for React JS.
 
