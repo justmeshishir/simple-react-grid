@@ -1,5 +1,5 @@
 {
-  "name": "react-grid",
+  "name": "simple-react-grid",
   "version": "1.0.0",
   "description": "Grid System for React Js",
   "main": "build/index.js",
