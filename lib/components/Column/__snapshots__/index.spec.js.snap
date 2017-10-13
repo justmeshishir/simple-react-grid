@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot renders correctly with defaults 1`] = `
+<div
+  className="sc-bdVaJa kHaRMQ"
+/>
+`;
+
+exports[`snapshot renders correctly with lg="6" 1`] = `
+<div
+  className="sc-bdVaJa fDOotm"
+/>
+`;
+
+exports[`snapshot renders correctly with md="6" 1`] = `
+<div
+  className="sc-bdVaJa epnEPF"
+/>
+`;
+
+exports[`snapshot renders correctly with sm="6" 1`] = `
+<div
+  className="sc-bdVaJa liwDMx"
+/>
+`;
